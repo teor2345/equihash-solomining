@@ -31,15 +31,15 @@
     "async": "*",
     "base58-native": "*",
     "bignum": "*",
-    "bitcoinjs-lib-zcash": "git+https://github.com/runn1ng/bitcoinjs-lib.git#zcash",
+    "bitcoinjs-lib-zcash": "git+https://github.com/nighthawk-apps/zcashjs-lib",
     "body-parser": "^1.17.1",
     "color": "^1.0.3",
     "colors": "^1.1.2",
     "dot": "^1.1.1",
-    "equihashverify": "git+https://github.com/joshuayabut/equihashverify.git",
+    "equihashverify": "git+https://github.com/s-nomp/equihashverify",
     "express": "^4.15.2",
     "express-dot-engine": "^1.0.7",
-    "merkle-bitcoin": "git+https://github.com/joshuayabut/merkle-bitcoin.git",
+    "merkle-bitcoin": "git+https://github.com/boolpath/merkle-bitcoin",
     "promise": "*"
   },
   "engines": {
